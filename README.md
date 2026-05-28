@@ -1,15 +1,15 @@
-```html
+```md
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Building%20ML%20Systems,%20Backend%20APIs%20%26%20Agentic%20AI&fontAlignY=50&fontSize=35&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Amit%20Kumar%20Pandey&fontAlignY=40&fontSize=45&section=header"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=BS+in+Data+Science+%40+IIT+Madras;Machine+Learning+%7C+Backend+Engineering;Exploring+Agentic+AI+Systems;Building+Real+World+Projects"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Building+ML+Systems;Backend+Engineering;Exploring+Agentic+AI;BS+in+Data+Science+%40+IIT+Madras"/>
 </p>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
 - 🎓 BS in Data Science @ IIT Madras
 - 🤖 Interested in Machine Learning, Backend Engineering & AI Systems
@@ -19,7 +19,7 @@
 
 ---
 
-## 🧰 Tech Stack
+# 🧰 Tech Stack
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,flask,fastapi,postgresql,mysql,linux,git,github,vscode,html,css,javascript" />
@@ -27,7 +27,7 @@
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pamit7d&show_icons=true&theme=tokyonight"/>
@@ -37,7 +37,7 @@
 
 ---
 
-## 🔥 Current Focus
+# 🔥 Current Focus
 
 - Machine Learning Systems
 - Backend APIs with Flask & FastAPI
@@ -47,11 +47,31 @@
 
 ---
 
-## 📫 Connect With Me
+# 📌 Featured Projects
+
+- 🤖 Placement Predictor ML Project
+- 📊 Recommendation System Projects
+- 🌐 Flask & FastAPI Backend Projects
+- 🧠 AI/ML Experiments
+- ⚙️ Data Science & Analytics Projects
+
+---
+
+# 📫 Connect With Me
 
 <p align="left">
   <a href="https://github.com/pamit7d">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+  
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pamit7d&theme=tokyonight" />
 </p>
 ```
