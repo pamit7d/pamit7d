@@ -8,15 +8,20 @@
 
 
 
+## 🚀 About Me
+
+🎓 Bachelor's in Data Science @ IIT Madras | Statistics @ PU
+
 💻 Interested in:
-- AI/ML Engineering
+- ML Engineering
 - Backend APIs
 - Agentic AI
 
-🛠️ Building AI & data-driven projects using:
+🛠️ Building AI systems using:
 - Flask & FastAPI
 - PostgreSQL & MongoDB
 - ML, NLP & LLMs
+- LangChain, LangGraph & RAG Pipelines
 
 📚 Learning through real-world projects and experimentation.
 
@@ -26,7 +31,12 @@
 
 - ML Engineering & MLOps
 - Backend Development
-- AI Agents & LLMs
+- AI Agents & LLM Applications
+- LangChain & LangGraph Workflows
+- RAG Pipelines
+- Labor Market Intelligence Systems
+```
+
 
 
 
