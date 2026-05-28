@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Building%20ML%20Systems,%20Backend%20APIs%20&%20Agentic%20AI&fontAlignY=50&fontSize=40&section=header&reversal=false"/>
+<img src="https://capsule-render.vercel.app/api?type=wave&height=300&color=gradient&text=Building%20ML%20Systems,%20Backend%20APIs%20&%20Agentic%20AI&fontAlignY=50&fontSize=40&section=header&reversal=false"/>
 
 
 <p align="center">
