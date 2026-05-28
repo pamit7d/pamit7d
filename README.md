@@ -7,21 +7,26 @@
 
 
 
-<p align="center">
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=pamit7d&show_icons=true&theme=tokyonight"
-      media="(prefers-color-scheme: dark)"
-    />
 
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=pamit7d&show_icons=true&theme=default"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
+💻 Interested in:
+- AI/ML Engineering
+- Backend APIs
+- Agentic AI
 
-    <img
-      height="180em"
-      src="https://github-readme-stats.vercel.app/api?username=pamit7d&show_icons=true"
-    />
-  </picture>
-</p>
+🛠️ Building AI & data-driven projects using:
+- Flask & FastAPI
+- PostgreSQL & MongoDB
+- ML, NLP & LLMs
+
+📚 Learning through real-world projects and experimentation.
+
+---
+
+## 🔥 Current Focus
+
+- ML Engineering & MLOps
+- Backend Development
+- AI Agents & LLMs
+
+
+
