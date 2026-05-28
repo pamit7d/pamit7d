@@ -1,4 +1,4 @@
-https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Welcome%20to%20Amit%20Pandey's%20Github!&fontAlignY=50&fontSize=40&section=header&reversal=false
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Welcome%20to%20Amit%20Pandey's%20Github!&fontAlignY=50&fontSize=40&section=header&reversal=false"/>
 
 <!--
 **pamit7d/pamit7d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
