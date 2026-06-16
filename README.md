@@ -51,9 +51,10 @@
   <img src="https://raw.githubusercontent.com/pamit7d/pamit7d/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
-<img src="https://github.com/lowlighter/metrics/blob/master/.github/readme/metrics.plugin.languages.svg" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pamit7d&layout=compact&theme=radical&hide_border=true" />
+
+--- 
 
 ## 🔥 Current Focus
 
