@@ -48,7 +48,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/pamit7d/pamit7d/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/pamit7d/pamit7d/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 <img src="https://github.com/lowlighter/metrics/blob/master/.github/readme/metrics.plugin.languages.svg" />
