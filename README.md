@@ -39,8 +39,8 @@
 ## 📊 My GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pamit7d&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pamit7d&layout=compact&theme=radical&hide_border=true" width="48%"/>
+   <img src="https://your-project-name.vercel.app/api?username=pamit7d&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%"/>
+   <img src="https://your-project-name.vercel.app/api/top-langs/?username=pamit7d&layout=compact&theme=radical&hide_border=true" width="48%"/>
 </p>
 
 <p align="center">
